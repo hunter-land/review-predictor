@@ -1,0 +1,2 @@
+Trained on "./trainingSet.txt", tested on "./testingSet.txt":
+	Correctly assumed classlabel for 360 of 497 (0.724346%) reviews.
